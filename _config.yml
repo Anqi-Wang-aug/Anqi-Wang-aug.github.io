@@ -34,7 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-permalink: /:title/
+#permalink: /:title/
 markdown: kramdown
 paginate: 5
 paginate_path: "/:num/"
