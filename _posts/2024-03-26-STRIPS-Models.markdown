@@ -12,7 +12,7 @@ Model definition: P=<F, O, I, G>
 - `add`: predicate become true after the action
 - `del`: predicate false after the action
 
-# PDDL programming
+## PDDL programming
 
 There are two files while implemenitng PDDL language
 - Domain file
