@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: STRIP Model
 permalink: /strip-model/
 ---
