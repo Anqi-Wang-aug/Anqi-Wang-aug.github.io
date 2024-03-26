@@ -16,3 +16,5 @@ $$
     \end{array} \right)
 \end{aligned}
 $$
+
+$$x^3$$
