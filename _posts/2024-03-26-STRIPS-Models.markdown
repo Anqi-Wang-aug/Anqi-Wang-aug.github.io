@@ -4,16 +4,20 @@ title: STRIP Model
 permalink: /strip-model/
 ---
 
-Model definition: P=<F, O, I, G>
+The STRIPS model, nonted as $P$, is denoted as
 
 
 ## pre, add and del list 
 - `pre`: predicate
 - `add`: predicate become true after the action
 - `del`: predicate false after the action
+  
+---
 
-## PDDL programming
+# PDDL programming
 
 There are two files while implemenitng PDDL language
-- Domain file
-- Problme file
+- Domain file: to define the world
+- Problme file: to define the problem
+
+## Tips for Writing PDDL
