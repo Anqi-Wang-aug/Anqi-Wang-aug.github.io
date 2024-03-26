@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 #permalink: /:title/
-markdown: kramdown
+markdown: kramdown mathjx: true
 paginate: 5
 paginate_path: "/:num/"
 date_format: "%b %-d, %Y"
