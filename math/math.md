@@ -1,1 +1,0 @@
-Everything about math should be here
